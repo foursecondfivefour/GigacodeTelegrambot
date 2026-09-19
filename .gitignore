@@ -1,0 +1,6 @@
+env.txt
+.env
+bot-env.txt
+bot-state.json
+*.log
+trace.log
